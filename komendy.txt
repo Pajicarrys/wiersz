@@ -1,0 +1,3 @@
+autoprefixer-cli css/style.css
+
+html-validate *.html
